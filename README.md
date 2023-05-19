@@ -1,1 +1,1 @@
-# mern_stack
+# MERN Stack application
